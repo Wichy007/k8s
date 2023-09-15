@@ -11,6 +11,6 @@ data:
 
       location / {
       default_type application/json;
-        return 200 "Naravit Buntahp";
+        return 200 "Naravit Bunthap";
       }
     }
